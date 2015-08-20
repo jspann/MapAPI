@@ -5,7 +5,7 @@ This API allows for directions between buildings on the RIT Campus. It also has 
 ### iOS Example
 **NOTE** POST requests are (for some reason) returning 500 Server Error every other request. It might be on Google's end but I am actively looking into it
 
-Look in the "Examples" folder.
+Available [here](https://github.com/jspann/MapAPI/tree/master/Examples/iOS%20Example)
 
 ### Web Example
 Coming Soon!
