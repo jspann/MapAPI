@@ -7,8 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+@import CoreLocation;
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<CLLocationManagerDelegate>{
+	CLLocationManager *locationManager;
+	CLLocation *mylocation;
+}
 
 
 @end
